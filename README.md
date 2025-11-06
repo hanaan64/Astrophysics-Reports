@@ -14,7 +14,7 @@ This repository contains selected reports and analytical projects completed duri
 
 ---
 
-### 2. [Polynomial Fitting and Chi-Squared Analysis of Experimental Data](Chi_Squared_Polynomial_Fitting.pdf)](https://github.com/hanaan64/Astrophysics-Reports/blob/main/Polynomial%20Fitting%20and%20Chi-Squared%20Analysis%20of%20Experimental%20Data.pdf)
+### 2. [Polynomial Fitting and Chi-Squared Analysis of Experimental Data.pdf](Chi_Squared_Polynomial_Fitting.pdf)](https://github.com/hanaan64/Astrophysics-Reports/blob/main/Polynomial%20Fitting%20and%20Chi-Squared%20Analysis%20of%20Experimental%20Data.pdf)
 *Implemented statistical curve fitting using Python to determine optimal polynomial models and assess fit quality through reduced chi-squared testing.*
 
 - Tools: **Python, SciPy, NumPy, Matplotlib**
