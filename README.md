@@ -38,5 +38,5 @@ This repository contains selected reports and analytical projects completed duri
 
 ---
 
-*© Hanaan Khan — Department of Physics, Royal Holloway, University of London*
+*© Hanaan Khan — Astrophysics BSc Undergraduate, Royal Holloway University of London*
 
