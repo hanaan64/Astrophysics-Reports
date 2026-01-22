@@ -23,10 +23,10 @@ This repository contains selected reports and analytical projects completed duri
 ---
 
 ### 3. [Multi-Wavelength Analysis of Solar Limb Darkening and Photospheric Temperature Structure](https://github.com/hanaan64/Astrophysics-Reports/blob/main/Multi-Wavelength%20Analysis%20of%20Solar%20Limb%20Darkening%20and%20Photospheric%20Temperature%20Structure.pdf)
-*Implemented statistical curve fitting using Python to determine optimal polynomial models and assess fit quality through reduced chi-squared testing.*
+*Performed drift-scan CCD observations of the Sun to extract centre-to-limb intensity profiles at multiple wavelengths, modelling solar limb darkening and reconstructing the photospheric temperature structure using radiative transfer approximations.*
 
-- Tools: **Python, SciPy, NumPy, Matplotlib**
-- Concepts: **Least-Squares Fitting, Chi-Squared Statistics, Model Selection**
+- Tools: **Python, Astropy, NumPy, SciPy, Matplotlib**
+- Concepts: **Solar Limb Darkening, Radiative Transfer, Eddington–Barbier Approximation, Least-Squares Fitting, Stellar Atmospheres**
 
 ---
 
