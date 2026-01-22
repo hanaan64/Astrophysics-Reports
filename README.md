@@ -22,7 +22,7 @@ This repository contains selected reports and analytical projects completed duri
 
 ---
 
-### 3. [Multi-Wavelength Analysis of Solar Limb Darkening and Photospheric Temperature Structure]([https://github.com/hanaan64/Astrophysics-Reports/blob/main/Polynomial%20Fitting%20and%20Chi-Squared%20Analysis%20of%20Experimental%20Data.pdf](https://github.com/hanaan64/Astrophysics-Reports/blob/main/Multi-Wavelength%20Analysis%20of%20Solar%20Limb%20Darkening%20and%20Photospheric%20Temperature%20Structure.pdf))
+### 3. [Multi-Wavelength Analysis of Solar Limb Darkening and Photospheric Temperature Structure](https://github.com/hanaan64/Astrophysics-Reports/blob/main/Multi-Wavelength%20Analysis%20of%20Solar%20Limb%20Darkening%20and%20Photospheric%20Temperature%20Structure.pdf)
 *Implemented statistical curve fitting using Python to determine optimal polynomial models and assess fit quality through reduced chi-squared testing.*
 
 - Tools: **Python, SciPy, NumPy, Matplotlib**
