@@ -30,12 +30,20 @@ This repository contains selected reports and analytical projects completed duri
 
 ---
 ### 4. [Characterisation and Calibration of the DADOS Long-Slit Spectrograph on the PlaneWave CDK17 Telescope](https://github.com/hanaan64/Astrophysics-Reports/blob/main/Dissertation%20Project.pdf)
+*Developed a Python pipeline to characterise and wavelength calibrate a CMOS-based long-slit spectrograph, performing bias, dark current, and flat field analysis across a range of detector temperatures to produce a preliminary instrument manual for nighttime observations.*
+
+- Tools: **Python, Astropy, NumPy, SciPy, Matplotlib**
+- Concepts: **Detector Characterisation, Wavelength Calibration, Gaussian Fitting, Polynomial Fitting, CMOS Noise Analysis**
+
+---
 ## Skills Demonstrated
 - Experimental design and quantitative data analysis  
 - Statistical fitting and uncertainty evaluation  
 - Scientific writing and LaTeX documentation  
 - Python programming for research applications  
-
+- Instrument calibration pipeline development
+- Detector characterisation and noise analysis
+- Spectroscopic data reduction and wavelength calibration
 ---
 
 *© Hanaan Khan — Astrophysics BSc Undergraduate, Royal Holloway, University of London*
