@@ -29,7 +29,7 @@ This repository contains selected reports and analytical projects completed duri
 - Concepts: **Solar Limb Darkening, Radiative Transfer, Eddington–Barbier Approximation, Least-Squares Fitting, Stellar Atmospheres**
 
 ---
-### 4. [Characterisation and Calibration of the DADOS Long-Slit Spectrograph on the PlaneWave CDK17 Telescope](https://github.com/hanaan64/Astrophysics-Reports/blob/main/Dissertation%20Project.pdf)
+### 4. [Final Year Dissertation Project: Characterisation and Calibration of the DADOS Long-Slit Spectrograph on the PlaneWave CDK17 Telescope](https://github.com/hanaan64/Astrophysics-Reports/blob/main/Dissertation%20Project.pdf)
 *Developed a Python pipeline to characterise and wavelength calibrate a CMOS-based long-slit spectrograph, performing bias, dark current, and flat field analysis across a range of detector temperatures to produce a preliminary instrument manual for nighttime observations.*
 
 - Tools: **Python, Astropy, NumPy, SciPy, Matplotlib**
