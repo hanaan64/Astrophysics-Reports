@@ -29,7 +29,7 @@ This repository contains selected reports and analytical projects completed duri
 - Concepts: **Solar Limb Darkening, Radiative Transfer, Eddington–Barbier Approximation, Least-Squares Fitting, Stellar Atmospheres**
 
 ---
-
+### 4. [Characterisation and Calibration of the DADOS Long-Slit Spectrograph on the PlaneWave CDK17 Telescope](https://github.com/hanaan64/Astrophysics-Reports/blob/main/Dissertation%20Project.pdf)
 ## Skills Demonstrated
 - Experimental design and quantitative data analysis  
 - Statistical fitting and uncertainty evaluation  
